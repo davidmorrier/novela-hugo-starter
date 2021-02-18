@@ -7,6 +7,7 @@ timeToRead: 5
 authors:
   - Dennis Brotzky
 draft: true
+{{ template "_internal/disqus.html" . }}
 ---
 
 Some default content
