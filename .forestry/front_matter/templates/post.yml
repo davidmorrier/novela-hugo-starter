@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/lorem-ipsum.md
 - content/post/test-from-forestry-cms.md
