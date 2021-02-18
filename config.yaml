@@ -1,5 +1,5 @@
-baseURL: "https://example.com"
-languageCode: "en-us"
+baseURL: "https://www.comunidaddemamas.com"
+languageCode: "es-cl"
 title: "Comunidad de Mamás"
 pygmentsstyle: 'monokai'
 
@@ -16,5 +16,6 @@ social:
   linkedin: "#"
   dribbble: "#"
   youtube: "#"
+disqusShortname: comunidaddemamas
 taxonomies:
   author: authors
